@@ -1,0 +1,16 @@
+# Core Framework & UI
+streamlit>=1.30.0
+
+# Data Analysis & Mathematics
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Interactive Visualizations
+plotly>=5.18.0
+
+# PDF & Document Generation
+reportlab>=4.0.0
+pillow>=10.0.0
+
+# Computer Vision (Real Face Presence Detection)
+opencv-python-headless>=4.8.0
